@@ -1,0 +1,19 @@
+{
+  "checksum": "0cc961f41dbf4ff5ab5654751a4ba36e",
+  "root": "esy-libxml2-2.9.9@link-dev:./package.json",
+  "node": {
+    "esy-libxml2-2.9.9@link-dev:./package.json": {
+      "id": "esy-libxml2-2.9.9@link-dev:./package.json",
+      "name": "esy-libxml2-2.9.9",
+      "version": "link-dev:./package.json",
+      "source": {
+        "type": "link-dev",
+        "path": ".",
+        "manifest": "package.json"
+      },
+      "overrides": [],
+      "dependencies": [],
+      "devDependencies": []
+    }
+  }
+}
